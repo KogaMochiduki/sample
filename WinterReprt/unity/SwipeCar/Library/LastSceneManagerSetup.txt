@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GameScine2.unity
+  isLoaded: 1
+  isActive: 1
